@@ -160,8 +160,8 @@
 <p>After you design and print your PCBs, the work is really not done right 😉!!! The next step is to arrange all the components on your PCB and make your circuit or module ready working with all the components. So, it is really important to get your SMD components to be placed on your PCB. But you have to be really skilled to perform this assembly of SMD components. But don't worry, JLCPCB.com covers you 😊</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","width":865,"height":426} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://mail.google.com/mail/u/1?ui=2&amp;ik=02ec04ec1a&amp;attid=0.5&amp;permmsgid=msg-f:1689396392940300341&amp;th=1771f1118e086835&amp;view=fimg&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ-4cPbOFnYVKtxb0VI_k1_AmfnnMSzHkwJc3DnsjrMRKf1kw3IGG3TQnCvVIexNuSGAjhhmVWCVDLpHq8Hr-X8uGuYOG9U6UBVXTF7l0CQJKtcIj0zlO9_jQBo&amp;disp=emb&amp;realattid=ii_kk57bjsy4" alt="image.png" width="865" height="426"/></figure></div>
+<!-- wp:image {"align":"center","id":5387,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://roboticelectronics.in/wp-content/uploads/2021/01/image-1.png" alt="" class="wp-image-5387"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
