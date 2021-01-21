@@ -161,7 +161,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":5387,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://roboticelectronics.in/wp-content/uploads/2021/01/image-1.png" alt="" class="wp-image-5387"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://roboticelectronics.in/wp-content/uploads/2021/01/j10.jpg" alt="" class="wp-image-5387"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
